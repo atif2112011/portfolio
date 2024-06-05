@@ -215,7 +215,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/project2.jpg"),
+      image: require("./assets/images/project3.jpg"),
       projectName: "UniqueFinds Marketplace",
       projectDesc:
         "Bidding Marketplace for refurbished goods for both Bidders and Sellers",
@@ -231,7 +231,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/project3.jpg"),
+      image: require("./assets/images/project2.jpg"),
       projectName: "Admin Panel",
       projectDesc:
         "Admin Panel for modifying user privileges,adding and deleting admins",
