@@ -163,8 +163,8 @@ const workExperiences = {
       role: "Backend Developer Intern",
       company: "Durbhashi Gurukulam",
       companylogo: require("./assets/images/company icon.png"),
-      date: "May 2024 – Present",
-      desc: "Providing Backend Solutions by integrating company's services with Automated chatbots for Whatsapp and Discord."
+      date: "May 2024 – August 2024",
+      desc: "Developing Backend APIs and worked with technologies such as Automated Chatbots, GraphQL, and Redis.Engineered custom bots for Discord and WhatsApp, automating tasks to improve workflow efficiency.Implemented cybersecurity measures to prevent spam and bot attacks"
     },
     {
       role: "Application Developer Intern",
@@ -279,12 +279,12 @@ const bigProjects = {
     },
     {
       image: require("./assets/images/project6.jpg"),
-      projectName: "Chatroom",
-      projectDesc: "Online chatroom application",
+      projectName: "RealTimeChat Application with Persistent Storage",
+      projectDesc: "Online chatroom application with support for realtime communication as well as persistent storage.",
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://chatroom-gi56.onrender.com"
+          url: ""
         },
         {
           name: "Github",
