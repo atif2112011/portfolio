@@ -278,7 +278,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/project6.jpg"),
+      image: require("./assets/images/project6.1.jpg"),
       projectName: "RealTimeChat Application with Persistent Storage",
       projectDesc: "Online chatroom application with support for realtime communication as well as persistent storage.",
       footerLink: [
