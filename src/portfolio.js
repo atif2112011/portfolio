@@ -23,7 +23,7 @@ const greeting = {
   username: "Mohd Atif",
   title: "I'm Atif",
   subTitle: emoji(
-    "A passionate Backend Developer 🚀 having an experience of building applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks."
+    "A passionate Software Developer 🚀 having an experience of building applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1REKCZEvRtSK40VqWzzRlaP7GzkueYIn-/view?usp=sharing",
@@ -280,11 +280,12 @@ const bigProjects = {
     {
       image: require("./assets/images/project6.jpg"),
       projectName: "RealTime Chat Application with Persistent Storage",
-      projectDesc: "Online chatroom application with support for realtime communication as well as persistent storage.",
+      projectDesc:
+        "Online chatroom application with support for realtime communication as well as persistent storage.",
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://chatroom-gi56.onrender.com"
+          url: ""
         },
         {
           name: "Github",
