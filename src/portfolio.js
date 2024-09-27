@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Backend Developer 🚀 having an experience of building applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1REKCZEvRtSK40VqWzzRlaP7GzkueYIn-/view?usp=sharing",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -163,8 +163,8 @@ const workExperiences = {
       role: "Backend Developer Intern",
       company: "Durbhashi Gurukulam",
       companylogo: require("./assets/images/company icon.png"),
-      date: "May 2024 – Present",
-      desc: "Providing Backend Solutions by integrating company's services with Automated chatbots for Whatsapp and Discord."
+      date: "May 2024 – August 2024",
+      desc: "Provided Backend Solutions by integrating company's services with Automated chatbots for Whatsapp and Discord."
     },
     {
       role: "Application Developer Intern",
@@ -279,8 +279,8 @@ const bigProjects = {
     },
     {
       image: require("./assets/images/project6.jpg"),
-      projectName: "Chatroom",
-      projectDesc: "Online chatroom application",
+      projectName: "RealTime Chat Application with Persistent Storage",
+      projectDesc: "Online chatroom application with support for realtime communication as well as persistent storage.",
       footerLink: [
         {
           name: "Visit Website",
@@ -297,6 +297,22 @@ const bigProjects = {
       projectName: "Discord and Whatsapp Bots",
       projectDesc:
         "Developed discord and Whatsapp bot for common functionality,role assignment ,spam protection, database consistency and other automations",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: ""
+        },
+        {
+          name: "Github",
+          url: ""
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/project8.jpg"),
+      projectName: "Cashfree Payment Solutions",
+      projectDesc:
+        "Developed the UI and payment APIs of Cashfree Payment Solutions",
       footerLink: [
         {
           name: "Visit Website",
@@ -435,7 +451,7 @@ const resumeSection = {
   subtitle: "Feel free to download my resume",
 
   // Please Provide with Your Podcast embeded Link
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 const contactInfo = {
